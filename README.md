@@ -14,11 +14,11 @@ My Python solutions to HackerRank coding challenges
 
 - Basic Data Types
   - [List Comprehensions](solutions/Basic_Data_Types/List_Comprehensions)
-  - Find the Runner-Up Score!
-  - Nested Lists
-  - Finding the percentage
-  - Lists
-  - Tuples
+  - [Find the Runner-Up Score!](solutions/Basic_Data_Types/Find_the_Runner-Up_Score)
+  - [Nested Lists](solutions/Basic_Data_Types/Nested_Lists)
+  - [Finding the percentage](solutions/Basic_Data_Types/Finding_the_percentage)
+  - [Lists](solutions/Basic_Data_Types/Lists)
+  - [Tuples](solutions/Basic_Data_Types/Tuples)
 
 
 - Strings
