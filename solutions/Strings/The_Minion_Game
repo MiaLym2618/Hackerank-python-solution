@@ -1,0 +1,28 @@
+def minion_game(string):
+    length=len(s)
+    vowels="AEIOU"
+
+    v_score=0
+    v_final_score=0
+    c_score=0
+    c_final_score=0
+
+
+    for i in range(length):
+        if s[i] in vowels:
+            v_score=length-i
+            v_final_score=v_final_score+v_score
+
+        else:
+            c_score=length-i
+            c_final_score=c_final_score+c_score
+
+    if v_final_score > c_final_score:
+        print(f"Kevin {v_final_score}")
+
+    elif v_final_score < c_final_score:
+        print(f"Stuart {c_final_score}")
+    
+    else:
+        print("Draw")
+        
