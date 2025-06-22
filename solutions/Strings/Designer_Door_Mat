@@ -1,0 +1,12 @@
+n,m=map(int,input().split())
+while m!=n*3:
+    n,m=map(int,input().split())
+
+midle="WELCOME"
+for i in range(n//2):
+    s=".|."*(2*i+1)
+    print(s.center(m,"-"))
+print(midle.center(m,"-"))
+for i in range(n//2-1,-1,-1):
+    s=".|."*(2*i+1)
+    print(s.center(m,"-"))
