@@ -39,7 +39,7 @@ My Python solutions to HackerRank coding challenges
 
 
 - Sets
-  - The Captain's Room
+  - [The Captain's Room](solutions/Sets/The_Captain_Room)
   - Introduction to Sets
   - No Idea!
   - Symmetric Difference
