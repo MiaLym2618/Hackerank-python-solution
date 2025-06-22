@@ -22,7 +22,7 @@ My Python solutions to HackerRank coding challenges
 
 
 - Strings
-  - sWAP cASE
+  - [sWAP cASE](solutions/Strings/sWAP_cASE)
   - String Split and Join
   - What's Your Name?
   - Mutations
