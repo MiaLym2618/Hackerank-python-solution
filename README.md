@@ -33,9 +33,9 @@ My Python solutions to HackerRank coding challenges
   - [Designer Door Mat](solutions/Strings/Designer_Door_Mat)
   - [String Formatting](solutions/Strings/String_Formatting)
   - [Alphabet Rangoli](solutions/Strings/Alphabet_Rangoli)
-  - Capitalize!
-  - The Minion Game
-  - Merge the Tools!
+  - [Capitalize!](solutions/Strings/Capitalize)
+  - [The Minion Game](solutions/Strings/The_Minion_Game)
+  - [Merge the Tools!](solutions/Strings/Merge_the_Tools)
 
 
 - Sets
