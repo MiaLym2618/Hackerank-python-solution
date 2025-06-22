@@ -1,0 +1,12 @@
+if __name__ == '__main__':
+    from itertools import product
+        
+    x = int(input())
+    y = int(input())
+    z = int(input())
+    n = int(input())
+    a = []
+    for i,j,k in product(range(x+1),range(y+1),range(z+1)):
+        if i+j+k!=n:
+            a.append([i,j,k])
+    print(a)    
