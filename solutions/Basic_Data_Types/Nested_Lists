@@ -1,0 +1,13 @@
+if __name__ == '__main__':
+    list=[]
+
+    for _ in range(int(input())):
+            name = input()
+            score = float(input())
+            list.append([name,score])
+
+    one_list=sorted(set([score for name,score in list]))
+    student=[name for name,score in list if score==one_list[1]]
+
+    for name in sorted(student):
+            print(name)
