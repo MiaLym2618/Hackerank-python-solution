@@ -1,0 +1,15 @@
+def print_rangoli(n):
+    import string
+    width=(n-1)*4+1
+
+    for i in range(n-1,0,-1):
+        sr="-".join(string.ascii_lowercase[i+1:n])
+        sl="-".join(reversed(string.ascii_lowercase[i:n]))
+        row=sl+("-"+sr if sr else "")
+        print(row.center(width,"-"))
+
+    for i in range(n):
+        sr="-".join(string.ascii_lowercase[i+1:n])
+        sl="-".join(reversed(string.ascii_lowercase[i:n]))
+        row=sl+("-"+sr if sr else "")
+        print(row.center(width,"-"))
