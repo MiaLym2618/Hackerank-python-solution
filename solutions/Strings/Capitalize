@@ -1,0 +1,4 @@
+# Complete the solve function below.
+def solve(s):
+    result = re.sub(r'\b[a-zA-Z]', lambda m: m.group().upper(), s)
+    return result
