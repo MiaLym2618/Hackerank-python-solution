@@ -1,0 +1,11 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+
+from itertools import permutations
+
+words, number = input().split()
+word = sorted(words)
+num = int(number)
+perm = permutations(word, num)
+
+for i in perm:
+    print("".join(i))
