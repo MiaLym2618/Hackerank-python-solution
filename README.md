@@ -13,7 +13,7 @@ My Python solutions to HackerRank coding challenges
 
 
 - Basic Data Types
-  - List Comprehensions
+  - [List Comprehensions](solutions/Basic_Data_Types/List_Comprehensions)
   - Find the Runner-Up Score!
   - Nested Lists
   - Finding the percentage
