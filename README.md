@@ -5,11 +5,11 @@ My Python solutions to HackerRank coding challenges
 - Introduction
   - [Say "Hello, World!" With Python](solutions/Introduction/hello_world.py)
   - [Python If-Else](solutions/Introduction/Python-If-Else)
-  - Arithmetic Operators
-  - Python: Division
-  - Loops
-  - Write a function
-  - Print Function
+  - [Arithmetic Operators](solutions/Introduction/Arithmetic_Operators)
+  - [Python: Division](solutions/Introduction/Division)
+  - [Loops](solutions/Introduction/Loops)
+  - [Write a function](solutions/Introduction/Write_a_function)
+  - [Print Function](solutions/Introduction/Print_Function)
 
 
 - Basic Data Types
