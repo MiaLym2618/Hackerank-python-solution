@@ -23,16 +23,16 @@ My Python solutions to HackerRank coding challenges
 
 - Strings
   - [sWAP cASE](solutions/Strings/sWAP_cASE)
-  - String Split and Join
-  - What's Your Name?
-  - Mutations
-  - Find a string
-  - String Validators
-  - Text Alignment
-  - Text Wrap
-  - Designer Door Mat
-  - String Formatting
-  - Alphabet Rangoli
+  - [String Split and Join](solutions/Strings/String_Split_and_Join)
+  - [What's Your Name?](solutions/Strings/What_is_Your_Name)
+  - [Mutations](solutions/Strings/Mutations)
+  - [Find a string](solutions/Strings/Find_a_string)
+  - [String Validators](solutions/Strings/String_Validators)
+  - [Text Alignment](solutions/Strings/Text_Alignment)
+  - [Text Wrap](solutions/Strings/Text_Wrap)
+  - [Designer Door Mat](solutions/Strings/Designer_Door_Mat)
+  - [String Formatting](solutions/Strings/String_Formatting)
+  - [Alphabet Rangoli](solutions/Strings/Alphabet_Rangoli)
   - Capitalize!
   - The Minion Game
   - Merge the Tools!
