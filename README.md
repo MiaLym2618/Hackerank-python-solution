@@ -65,11 +65,11 @@ My Python solutions to HackerRank coding challenges
 
 
 - Itertools
-  - itertools.product()
-  - itertools.permutations()
-  - itertools.combinations()
-  - itertools.combinations_with_replacement()
-  - Compress the String!
+  - [itertools.product()](solutions/Itertools/itertools.product)
+  - [itertools.permutations()](solutions/Itertools/itertools.permutations)
+  - [itertools.combinations()](solutions/Itertools/itertools.combinations)
+  - [itertools.combinations_with_replacement()](solutions/Itertools/itertools.combinations_with_replacement)
+  - [Compress the String!](solutions/Itertools/Compress_the_String)
   - Iterables and Iterators
   - Maximize It!
 
