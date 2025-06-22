@@ -3,7 +3,7 @@ My Python solutions to HackerRank coding challenges
 
 # Categories
 - Introduction
-  - Say "Hello, World!" With Python
+  - [Say "Hello, World!" With Python](solutions/Introduction/hello_world.py)
   - Python If-Else
   - Arithmetic Operators
   - Python: Division
