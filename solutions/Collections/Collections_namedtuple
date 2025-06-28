@@ -1,1 +1,13 @@
+from collections import namedtuple
 
+number=int(input())
+a,b,c,d=input().upper().split()
+information=namedtuple("information",f"{a} {b} {c} {d}", rename=True)
+total=0
+for _ in range(number):
+    data=input().split()
+    records=information(*data)
+    marks=float(getattr(records,"MARKS"))
+    total=total+marks
+average=total/number
+print(f"{average:.2f}")
