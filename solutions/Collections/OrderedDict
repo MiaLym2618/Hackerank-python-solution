@@ -1,0 +1,16 @@
+from collections import OrderedDict
+
+number=int(input())
+order=OrderedDict()
+price=0
+for _ in range(number):
+    *item, price=input().split() 
+    item=" ".join(item)
+    price=int(price)
+    if item in order:
+        order[item]+=price
+    else:
+        order[item]=price
+
+for i,p in order.items():
+    print(i,p)
