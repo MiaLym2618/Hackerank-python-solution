@@ -75,7 +75,7 @@ My Python solutions to HackerRank coding challenges
 
 - Collections
   - [collections.Counter()](solutions/Collections/collections_Counter)
-  - DefaultDict Tutorial
+  - [DefaultDict Tutorial](solutions/Collections/DefaultDict_Tutorial)
   - Collections.namedtuple()
   - Collections.OrderedDict()
   - Word Order
