@@ -1,0 +1,15 @@
+from collections import Counter
+
+shoes=int(input())
+s_list=list(map(int, input().split()))
+customer=int(input())
+
+inventory=Counter(s_list)
+money=0
+
+for i in range(customer):
+    size,price=map(int,input().split())
+    if inventory[size]>0:
+        inventory[size]=inventory[size]-1
+        money=money+price
+print(money)
