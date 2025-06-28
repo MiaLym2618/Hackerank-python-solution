@@ -74,7 +74,7 @@ My Python solutions to HackerRank coding challenges
   - Maximize It!
 
 - Collections
-  - collections.Counter()
+  - [collections.Counter()](solutions/Collections/collections_Counter)
   - DefaultDict Tutorial
   - Collections.namedtuple()
   - Collections.OrderedDict()
