@@ -79,7 +79,7 @@ My Python solutions to HackerRank coding challenges
   - [Collections.namedtuple](solutions/Collections/Collections_namedtuple)
   - [Collections.OrderedDict()](solutions/Collections/OrderedDict)
   - Word Order
-  - Collections.deque()
+  - [Collections.deque()](solutions/Collections/deque())
   - Company Logo
   - Piling Up!
 
