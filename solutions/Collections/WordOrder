@@ -1,0 +1,14 @@
+from collections import OrderedDict
+
+n=int(input())
+w_list=OrderedDict()
+for _ in range(n):
+    s=input()
+    if s not in w_list:
+        w_list[s]=1
+    else:
+        w_list[s]+=1
+
+print(len(w_list))
+w_value=" ".join(map(str,w_list.values()))
+print(w_value)
