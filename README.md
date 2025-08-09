@@ -55,7 +55,7 @@ My Python solutions to HackerRank coding challenges
 
 
 - Math
-  - Polar Coordinates
+  - [Polar Coordinates](solutions/Math/Polar_coordinates)
   - Find Angle MBC
   - Triangle Quest 2
   - Mod Divmod
