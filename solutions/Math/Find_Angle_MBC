@@ -1,0 +1,9 @@
+import cmath, math
+i=input()
+x=input()
+ic=complex(0,float(i))
+xc=complex(float(x),0)
+z=(ic+xc)/2
+phi=cmath.phase(z)
+deg=round(math.degrees(phi))
+print(f"{deg}{chr(176)}")
