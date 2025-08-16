@@ -1,0 +1,14 @@
+n=int(input())
+s=set(map(int,input().split()))
+step=int(input())
+
+for i in range(step):
+    act,*act2=input().lower().split()
+    if act=="pop":
+        s.discard(min(s))
+    if act=="remove":
+        s.discard(int(act2[0]))
+    if act=="discard":
+        s.discard(int(act2[0]))
+
+print(sum(s))
