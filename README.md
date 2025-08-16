@@ -43,7 +43,7 @@ My Python solutions to HackerRank coding challenges
   - [Introduction to Sets](solutions/Sets/Introduction_to_Sets)
   - [No Idea!](solutions/Sets/No_Idea)
   - [Symmetric Difference](solutions/Sets/Symmetric_Difference)
-  - Set .add()
+  - [Set .add()](solutions/Sets/add)
   - Set .discard(), .remove() & .pop()
   - Set .union() Operation
   - Set .intersection() Operation
