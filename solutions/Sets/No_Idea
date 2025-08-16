@@ -1,0 +1,12 @@
+num1,num2=map(int,input().split())
+s=list(map(int,input().split()))
+s1=set(map(int,input().split()))
+s2=set(map(int,input().split()))
+
+score=0
+for i in s:
+    if i in s1:
+       score+=1
+    if i in s2:
+        score-=1
+print(score) 
