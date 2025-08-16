@@ -1,0 +1,3 @@
+def average(arr):
+    s_arr=set(arr)
+    return sum(s_arr)/len(s_arr)
