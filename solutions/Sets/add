@@ -1,0 +1,8 @@
+n=int(input())
+s=set()
+
+for i in range(n):
+    c=input()
+    if c not in s:
+        s.add(c)
+print(len(s))
