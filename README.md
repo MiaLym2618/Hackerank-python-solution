@@ -42,7 +42,7 @@ My Python solutions to HackerRank coding challenges
   - [The Captain's Room](solutions/Sets/The_Captain_Room)
   - [Introduction to Sets](solutions/Sets/Introduction_to_Sets)
   - No Idea!
-  - Symmetric Difference
+  - [Symmetric Difference](solutions/Sets/Symmetric_Difference)
   - Set .add()
   - Set .discard(), .remove() & .pop()
   - Set .union() Operation
