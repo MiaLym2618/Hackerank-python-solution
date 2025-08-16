@@ -40,7 +40,7 @@ My Python solutions to HackerRank coding challenges
 
 - Sets
   - [The Captain's Room](solutions/Sets/The_Captain_Room)
-  - Introduction to Sets
+  - [Introduction to Sets](solutions/Sets/Introduction_to_Sets)
   - No Idea!
   - Symmetric Difference
   - Set .add()
