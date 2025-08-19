@@ -85,7 +85,7 @@ My Python solutions to HackerRank coding challenges
 
 
 - Date and Time
-  - Calendar Module
+  - [Calendar Module](solutions/Date_and_Time/Calendar_Module)
   - Time Delta
 
 
