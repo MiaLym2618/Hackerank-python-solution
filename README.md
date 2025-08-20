@@ -91,7 +91,7 @@ My Python solutions to HackerRank coding challenges
 
 - Errors and Exceptions
   - [Exceptions](solutions/Errors_and_Exceptions/Exceptions)
-  - Incorrect Regex
+  - [Incorrect Regex](solutions/Errors_and_Exceptions/Incorrect_Regex)
 
 - Classes
   - Classes: Dealing with Complex Numbers
