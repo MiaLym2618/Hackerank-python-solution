@@ -90,7 +90,7 @@ My Python solutions to HackerRank coding challenges
 
 
 - Errors and Exceptions
-  - Exceptions
+  - [Exceptions](solutions/Errors_and_Exceptions/Exceptions)
   - Incorrect Regex
 
 - Classes
