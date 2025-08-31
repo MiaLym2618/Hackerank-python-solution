@@ -1,0 +1,6 @@
+e_number=int(input())
+e_set=set(map(int,input().split()))
+f_number=int(input())
+f_set=set(map(int,input().split()))
+result=e_set.symmetric_difference(f_set)
+print(len(result))
