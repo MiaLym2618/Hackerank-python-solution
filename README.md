@@ -80,7 +80,7 @@ My Python solutions to HackerRank coding challenges
   - [Collections.OrderedDict()](solutions/Collections/OrderedDict)
   - [Word Order](solutions/Collections/WordOrder)
   - [Collections.deque()](solutions/Collections/deque())
-  - Company Logo
+  - [Company Logo](solutions/Collections/Company_Logo)
   - Piling Up!
 
 
