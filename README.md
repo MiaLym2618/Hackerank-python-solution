@@ -49,7 +49,7 @@ My Python solutions to HackerRank coding challenges
   - [Set .intersection() Operation](solutions/Sets/intersection()_Operation)
   - [Set .difference() Operation](solutions/Sets/difference()_Operation)
   - [Set .symmetric_difference() Operation](solutions/Sets/symmetric_difference()_Operation)
-  - Set Mutations
+  - [Set Mutations](solutions/Sets/Mutations)
   - Check Subset
   - Check Strict Superset
 
