@@ -46,7 +46,7 @@ My Python solutions to HackerRank coding challenges
   - [Set .add()](solutions/Sets/add)
   - [Set .discard(), .remove() & .pop()](solutions/Sets/discard_remove_pop())
   - [Set .union() Operation](solutions/Sets/union()_Operation)
-  - Set .intersection() Operation
+  - [Set .intersection() Operation](solutions/Sets/intersection()_Operation)
   - Set .difference() Operation
   - [Set .symmetric_difference() Operation](solutions/Sets/symmetric_difference()_Operation)
   - Set Mutations
