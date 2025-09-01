@@ -1,0 +1,6 @@
+en=int(input())
+el=set(map(int,input().split()))
+fn=int(input())
+fl=set(map(int,input().split()))
+un=el.union(fl)
+print(len(un))
