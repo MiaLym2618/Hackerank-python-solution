@@ -1,0 +1,18 @@
+number=int(input())
+original=set(map(int,input().split()))
+step=int(input())
+
+for i in range(step):
+    p,n=input().lower().split()
+    n=int(n)
+    new=set(map(int,input().split()))
+    if p=="intersection_update":
+        original.intersection_update(new)
+    if p=="update":
+        original.update(new)
+    if p=="symmetric_difference_update":
+        original.symmetric_difference_update(new)
+    if p=="difference_update":
+        original.difference_update(new)
+    
+print(sum(original))
