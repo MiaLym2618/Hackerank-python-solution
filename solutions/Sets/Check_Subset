@@ -1,0 +1,11 @@
+test_round=int(input())
+
+for i in range(test_round):
+    a=int(input())
+    a_set=set(map(int,input().split()))
+    b=int(input())
+    b_set=set(map(int,input().split()))
+    if a_set.issubset(b_set):
+        print(True)
+    else: 
+        print(False)
