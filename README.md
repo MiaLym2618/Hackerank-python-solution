@@ -61,7 +61,7 @@ My Python solutions to HackerRank coding challenges
   - [Mod Divmod](solutions/Math/Mod_Divmod)
   - [Power - Mod Power](solutions/Math/Mod_Power)
   - [Integers Come In All Sizes](solutions/Math/Integers_Come_In_All_Sizes)
-  - Triangle Quest
+  - [Triangle Quest](solutions/Math/Triangle_Quest)
 
 
 - Itertools
