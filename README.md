@@ -50,7 +50,7 @@ My Python solutions to HackerRank coding challenges
   - [Set .difference() Operation](solutions/Sets/difference()_Operation)
   - [Set .symmetric_difference() Operation](solutions/Sets/symmetric_difference()_Operation)
   - [Set Mutations](solutions/Sets/Mutations)
-  - Check Subset
+  - [Check Subset](solutions/Sets/Check_Subset)
   - Check Strict Superset
 
 
