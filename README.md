@@ -60,7 +60,7 @@ My Python solutions to HackerRank coding challenges
   - [Triangle Quest 2](solutions/Math/Triangle_Quest_2)
   - [Mod Divmod](solutions/Math/Mod_Divmod)
   - [Power - Mod Power](solutions/Math/Mod_Power)
-  - Integers Come In All Sizes
+  - [Integers Come In All Sizes](solutions/Math/Integers_Come_In_All_Sizes)
   - Triangle Quest
 
 
