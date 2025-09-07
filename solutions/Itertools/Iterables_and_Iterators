@@ -1,0 +1,17 @@
+from itertools import combinations
+
+n=int(input())
+l=input().lower().split()
+k=int(input())
+lc=list(combinations(l,k))
+print(lc)
+print(len(lc))
+
+target="a"
+n=0
+for i in lc:
+    if target in i:
+        n=n+1
+
+p=n/len(lc)
+print(round(p,4))
