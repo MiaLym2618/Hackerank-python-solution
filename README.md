@@ -81,7 +81,7 @@ My Python solutions to HackerRank coding challenges
   - [Word Order](solutions/Collections/WordOrder)
   - [Collections.deque()](solutions/Collections/deque())
   - [Company Logo](solutions/Collections/Company_Logo)
-  - Piling Up!
+  - [Piling Up!](solutions/Collections/Piling_Up)
 
 
 - Date and Time
