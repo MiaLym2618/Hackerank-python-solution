@@ -1,0 +1,30 @@
+from collections import deque
+
+test=int(input())
+for _ in range(test):
+    b_size=int(input())
+    b=deque(map(int,input().split()))
+    start=float("inf")
+    result=True
+    while b:
+        if b[0]<=start and b[-1]<=start:
+            if b[0]<=b[-1]:
+                n=b.pop()    
+                start=n
+            else:
+                n=b.popleft()
+                start=n
+        elif b[0]<=start:
+            n=b.popleft()
+            start=n
+        elif b[-1]<=start:
+            n=b.pop()
+            start=n
+        else:
+            result=False
+            break
+    
+    if result==True:
+        print("Yes")
+    else:
+        print("No")
