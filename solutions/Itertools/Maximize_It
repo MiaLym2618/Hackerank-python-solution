@@ -1,0 +1,20 @@
+from itertools import product
+k,m=map(int,input().split())
+lst=[]
+
+for i in range(k):
+    n=list(map(int,input().split()))
+    lst.append(n[1:])
+combo=list(product(*lst))
+
+max_value=0
+for c in combo:
+    total=0
+    for x in c:
+        x=x**2
+        total+=x
+    s=total%m
+    if s > max_value:
+        max_value=s
+
+print(max_value)
