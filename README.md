@@ -71,7 +71,7 @@ My Python solutions to HackerRank coding challenges
   - [itertools.combinations_with_replacement()](solutions/Itertools/itertools.combinations_with_replacement)
   - [Compress the String!](solutions/Itertools/Compress_the_String)
   - [Iterables and Iterators](solutions/Itertools/Iterables_and_Iterators)
-  - Maximize It!
+  - [Maximize It!](solutions/Itertools/Maximize_It)
 
 - Collections
   - [collections.Counter()](solutions/Collections/collections_Counter)
