@@ -94,7 +94,7 @@ My Python solutions to HackerRank coding challenges
   - [Incorrect Regex](solutions/Errors_and_Exceptions/Incorrect_Regex)
 
 - Classes
-  - Classes: Dealing with Complex Numbers
+  - [Classes: Dealing with Complex Numbers](solutions/Classes/Dealing_with_Complex_Numbers)
   - Class 2 - Find the Torsional Angle
 
 - Built-Ins
