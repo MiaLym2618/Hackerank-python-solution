@@ -95,7 +95,7 @@ My Python solutions to HackerRank coding challenges
 
 - Classes
   - [Classes: Dealing with Complex Numbers](solutions/Classes/Dealing_with_Complex_Numbers)
-  - Class 2 - Find the Torsional Angle
+  - [Class 2 - Find the Torsional Angle](solutions/Classes/Find_the_Torsional_Angle)
 
 - Built-Ins
   - Zipped!
