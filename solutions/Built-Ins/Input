@@ -1,0 +1,7 @@
+x, y= map(int,input().split())
+p=input()
+r=eval(p)
+if y==r:
+    print(True)
+else:
+    print(False)
