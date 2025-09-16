@@ -98,7 +98,7 @@ My Python solutions to HackerRank coding challenges
   - [Class 2 - Find the Torsional Angle](solutions/Classes/Find_the_Torsional_Angle)
 
 - Built-Ins
-  - Zipped!
+  - [Zipped!](solutions/Built-Ins/Zipped)
   - Input()
   - Python Evaluation
   - Athlete Sort
