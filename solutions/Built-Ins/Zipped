@@ -1,0 +1,11 @@
+stu, sub= map(int,input().split())
+s=[]
+
+for _ in range(sub):
+    x=list(map(float,input().split()))
+    s+=[x]
+    
+total=list(zip(*s))
+
+for i in total:
+    print(sum(i)/sub)
