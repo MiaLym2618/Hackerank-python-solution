@@ -100,7 +100,7 @@ My Python solutions to HackerRank coding challenges
 - Built-Ins
   - [Zipped!](solutions/Built-Ins/Zipped)
   - [Input()](solutions/Built-Ins/Input)
-  - Python Evaluation
+  - [Python Evaluation](solutions/Built-Ins/Evaluation)
   - Athlete Sort
   - Any or All
   - ginortS
