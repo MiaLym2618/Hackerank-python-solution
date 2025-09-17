@@ -103,7 +103,7 @@ My Python solutions to HackerRank coding challenges
   - [Python Evaluation](solutions/Built-Ins/Evaluation)
   - [Athlete Sort](solutions/Built-Ins/Athlete_Sort)
   - [Any or All](solutions/Built-Ins/Any_or_All)
-  - ginortS
+  - [ginortS](solutions/Built-Ins/ginortS)
 
 
 - Python Functionals
