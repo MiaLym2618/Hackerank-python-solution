@@ -108,7 +108,7 @@ My Python solutions to HackerRank coding challenges
 
 - Python Functionals
   - [Map and Lambda Function](solutions/Functionals/Map_and_Lambda_Function)
-  - Validating Email Addresses With a Filter
+  - [Validating Email Addresses With a Filter](solutions/Functionals/Validating_Email_Addresses_With_a_Filter)
   - Reduce Function
 
 - Regex and Parsing
