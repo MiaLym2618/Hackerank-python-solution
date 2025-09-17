@@ -1,0 +1,14 @@
+s=input()
+
+def rule(i):
+    if i.islower():
+        return(0,i)
+    elif i.isupper():
+        return(1,i)
+    elif i.isdigit():
+        if int(i)%2==1:
+            return(2,i)
+        return(3,i)
+
+result=sorted(s,key=rule)
+print("".join(result))
