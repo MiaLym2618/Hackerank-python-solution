@@ -112,7 +112,7 @@ My Python solutions to HackerRank coding challenges
   - [Reduce Function](solutions/Functionals/Reduce_Function)
 
 - Regex and Parsing
-  - [Detect Floating Point Number]
+  - [Detect Floating Point Number](solutions/Regex_and_Parsing/Detect_Floating_Point_Number)
   - Re.split()
   - Group(), Groups() & Groupdict()
   - Re.findall() & Re.finditer()
