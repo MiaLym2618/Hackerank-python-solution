@@ -109,7 +109,7 @@ My Python solutions to HackerRank coding challenges
 - Python Functionals
   - [Map and Lambda Function](solutions/Functionals/Map_and_Lambda_Function)
   - [Validating Email Addresses With a Filter](solutions/Functionals/Validating_Email_Addresses_With_a_Filter)
-  - Reduce Function
+  - [Reduce Function](solutions/Functionals/Reduce_Function)
 
 - Regex and Parsing
   - Detect Floating Point Number
