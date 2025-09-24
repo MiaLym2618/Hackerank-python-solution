@@ -1,0 +1,10 @@
+import re 
+s=input() 
+t=input()
+m=re.finditer(fr"(?=({t}))",s)
+r=list(m)
+if r==[]:
+    print((-1, -1))
+else:
+    for i in r:
+        print(f"({i.start()}, {i.start()+len(t)-1})")
