@@ -1,0 +1,10 @@
+import re 
+s=input() 
+m=re.finditer(r"(?<=[BCDFGHJKLMNPQRSTVWXYZbcdfghjklmnpqrstvwxyz])([AEIOUaeiou]{2,})(?=[BCDFGHJKLMNPQRSTVWXYZbcdfghjklmnpqrstvwxyz])",s) 
+r=list(m)
+
+if r==[]:
+    print(-1)
+else:
+    for i in r:
+        print(i.group(1))
