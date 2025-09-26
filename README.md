@@ -119,7 +119,7 @@ My Python solutions to HackerRank coding challenges
   - [Re.start() & Re.end()](solutions/Regex_and_Parsing/start()&end())
   - [Regex Substitution](solutions/Regex_and_Parsing/Regex_Substitution)
   - [Validating Roman Numerals](solutions/Regex_and_Parsing/Validating_Roman_Numerals)
-  - Validating phone numbers
+  - [Validating phone numbers](solutions/Regex_and_Parsing/Validating_phone_numbers)
   - Validating and Parsing Email Addresses
   - Hex Color Code
   - HTML Parser - Part 1
