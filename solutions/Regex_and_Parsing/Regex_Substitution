@@ -1,0 +1,13 @@
+import re 
+n=int(input()) 
+
+def replace(m):
+    if m.group()=="&&":
+        return "and"
+    else:
+        return "or"
+
+for _ in range(n):
+    s=input()
+    result=re.sub(r"(?<= )(&&|\|\|)(?= )",replace,s)
+    print(result,sep="\n")
