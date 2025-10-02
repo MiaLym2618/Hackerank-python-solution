@@ -1,0 +1,8 @@
+import re, email.utils
+n=int(input())
+for _ in range(n):
+    mail=email.utils.parseaddr(input())
+    name_t=re.fullmatch(r"[\w._-]+",mail[0])
+    address_t=re.match(r"^[A-Za-z][\w._-]*@[A-Za-z]+\.[A-Za-z]{1,3}$",mail[1])
+    if name_t and address_t:
+        print(email.utils.formataddr((name_t.group(),address_t.group())))
