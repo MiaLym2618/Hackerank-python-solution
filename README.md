@@ -120,7 +120,7 @@ My Python solutions to HackerRank coding challenges
   - [Regex Substitution](solutions/Regex_and_Parsing/Regex_Substitution)
   - [Validating Roman Numerals](solutions/Regex_and_Parsing/Validating_Roman_Numerals)
   - [Validating phone numbers](solutions/Regex_and_Parsing/Validating_phone_numbers)
-  - Validating and Parsing Email Addresses
+  - [Validating and Parsing Email Addresses](solutions/Regex_and_Parsing/Validating_and_Parsing_Email_Addresses)
   - Hex Color Code
   - HTML Parser - Part 1
   - HTML Parser - Part 2
